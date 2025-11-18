@@ -1,0 +1,60 @@
+{
+    "jokes" :[
+    {
+    "error": false,
+    "category": "Dark",
+    "type": "twopart",
+    "setup": "Quel est le point commun entre un gynécologue myope et un chien en bonne santé?",
+    "delivery": "Ils ont tous les deux le nez mouillé.",
+    "flags": {
+        "nsfw": true,
+        "religious": false,
+        "political": false,
+        "racist": false,
+        "sexist": false,
+        "explicit": false
+    },
+    "safe": false,
+    "id": 0,
+    "lang": "fr"
+},
+{
+    
+    "error": false,
+    "category": "Misc",
+    "type": "twopart",
+    "setup": "Pourquoi les alpinistes aiment-ils bien les blondes?",
+    "delivery": "Parce qu'ils n'ont pas peur du vide!",
+    "flags": {
+        "nsfw": false,
+        "religious": false,
+        "political": false,
+        "racist": false,
+        "sexist": false,
+        "explicit": false
+    },
+    "safe": true,
+    "id": 9,
+    "lang": "fr"
+
+},
+{
+    "error": false,
+    "category": "Misc",
+    "type": "twopart",
+    "setup": "Tu as 4 poussins et tu n'en veux que 3, comment faire?",
+    "delivery": "Tu en pousses un",
+    "flags": {
+        "nsfw": false,
+        "religious": false,
+        "political": false,
+        "racist": false,
+        "sexist": false,
+        "explicit": false
+    },
+    "safe": true,
+    "id": 17,
+    "lang": "fr"
+}
+]
+}
